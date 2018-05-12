@@ -1,0 +1,39 @@
+_repo: ModernEn-Ber-ttelse_15703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lundegård, Axel
+    alias: Lundegard, Axel
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '6212'
+    url: http://www.gutenberg.org/2009/agents/6212
+    wikipedia: http://sv.wikipedia.org/wiki/Axel_Lundeg%C3%A5rd
+  - agent_name: Benedictsson, Victoria
+    aliases:
+    - Benedictsson, Victoria Maria Bruzelius
+    - Ahlgren, Ernst
+    birthdate: 1850
+    deathdate: 1888
+    gutenberg_agent_id: '6211'
+    url: http://www.gutenberg.org/2009/agents/6211
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Victoria_Benedictsson
+    - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
+description: ''
+gutenberg_issued: '2005-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15703'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction'
+- !lcc 'PT'
+title: 'Modern: En Berättelse'
+url: http://www.gutenberg.org/ebooks/15703
