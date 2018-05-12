@@ -24,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Victoria_Benedictsson
     - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15703#ModernEn-Ber-ttelse
 gutenberg_issued: '2005-04-25'
 gutenberg_type: Text
 identifiers:
